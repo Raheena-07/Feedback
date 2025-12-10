@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(180deg, #f8f9fa 0%, #ffffff 100%);
+}
+
+.card-custom {
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.table thead th {
+  vertical-align: middle;
+}
+
+.rating-badge {
+  font-weight: 600;
+}

@@ -1,0 +1,35 @@
+
+.navbar-page-container {
+  padding: 25px 40px;     
+}
+
+.navbar-custom {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  padding: 12px 20px;
+}
+
+
+.navbar-brand {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  color: #4b2dff !important;
+}
+
+
+.nav-link {
+  font-size: 16px !important;
+  margin-left: 20px;
+  color: #555 !important;
+  transition: 0.25s ease;
+}
+
+.nav-link:hover {
+  color: #4b2dff !important;
+}
+
+.nav-link.active {
+  color: #4b2dff !important;
+  font-weight: 600;
+}
